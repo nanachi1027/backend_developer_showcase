@@ -27,4 +27,13 @@ hs_err_pid*
 /.idea/
 /*.iml
 /logs/
-/target/*
+
+gateway-zuul/target/*
+commons/target/*
+api-models/target/*
+user-center/target/*
+oauth-center/target/*
+log-center/target/*
+monitor-center/target/*
+notification-center/target/*
+
