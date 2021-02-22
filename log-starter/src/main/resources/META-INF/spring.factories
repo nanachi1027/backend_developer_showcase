@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.cloud.mae.log.autoconfigure.LogAutoConfiguration,\
+org.cloud.mae.log.autoconfigure.LogApp
