@@ -1,0 +1,5 @@
+org/cloud/mae/model/user/constants/CredentialType.class
+org/cloud/mae/model/log/constants/LogQueue.class
+org/cloud/mae/model/log/Log$LogBuilder.class
+org/cloud/mae/model/log/LogAnnotation.class
+org/cloud/mae/model/log/Log.class
