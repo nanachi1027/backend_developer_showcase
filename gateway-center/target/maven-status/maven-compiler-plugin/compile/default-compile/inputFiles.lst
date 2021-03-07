@@ -1,0 +1,12 @@
+/Users/nanachi/iceland/github/backend_developer_showcase/backend_developer_showcase/gateway-zuul/src/main/java/org/cloud/mae/model/gateway/feign/Oauth2Client.java
+/Users/nanachi/iceland/github/backend_developer_showcase/backend_developer_showcase/gateway-zuul/src/main/java/org/cloud/mae/model/gateway/controller/ServiceInstanceController.java
+/Users/nanachi/iceland/github/backend_developer_showcase/backend_developer_showcase/gateway-zuul/src/main/java/org/cloud/mae/model/gateway/controller/TokenController.java
+/Users/nanachi/iceland/github/backend_developer_showcase/backend_developer_showcase/gateway-zuul/src/main/java/org/cloud/mae/model/gateway/feign/LogClient.java
+/Users/nanachi/iceland/github/backend_developer_showcase/backend_developer_showcase/gateway-zuul/src/main/java/org/cloud/mae/model/gateway/filter/InternalURIAccessFilter.java
+/Users/nanachi/iceland/github/backend_developer_showcase/backend_developer_showcase/gateway-zuul/src/main/java/org/cloud/mae/model/gateway/feign/BackendClient.java
+/Users/nanachi/iceland/github/backend_developer_showcase/backend_developer_showcase/gateway-zuul/src/main/java/org/cloud/mae/model/gateway/filter/BlackIPAccessFilter.java
+/Users/nanachi/iceland/github/backend_developer_showcase/backend_developer_showcase/gateway-zuul/src/main/java/org/cloud/mae/model/gateway/GatewayApplication.java
+/Users/nanachi/iceland/github/backend_developer_showcase/backend_developer_showcase/gateway-zuul/src/main/java/org/cloud/mae/model/gateway/config/SwaggerConfig.java
+/Users/nanachi/iceland/github/backend_developer_showcase/backend_developer_showcase/gateway-zuul/src/main/java/org/cloud/mae/model/gateway/config/SecurityConfig.java
+/Users/nanachi/iceland/github/backend_developer_showcase/backend_developer_showcase/gateway-zuul/src/main/java/org/cloud/mae/model/gateway/config/ExceptionHandlerAdviceConfig.java
+/Users/nanachi/iceland/github/backend_developer_showcase/backend_developer_showcase/gateway-zuul/src/main/java/org/cloud/mae/model/gateway/config/CrossDomainConfig.java

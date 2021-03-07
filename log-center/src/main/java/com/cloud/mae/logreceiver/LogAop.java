@@ -1,4 +1,4 @@
-package org.cloud.mae.model.log.autoconfigure;
+package com.cloud.mae.logreceiver;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Aspect;

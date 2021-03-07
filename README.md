@@ -336,7 +336,17 @@ none
 ```
 
 #### /files/{id}
-* RESTful Type: 
+* RESTful Type: DELETE
+* usage: delete specified file with id = {id} in file center
+* request 
+```json
+
+```
+
+* response 
+```json
+
+```
  
  
 ### Database Table Design 
