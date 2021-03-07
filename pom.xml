@@ -12,15 +12,15 @@
     <modules>
         <module>register-center</module>
         <module>config-center</module>
-        <module>oauth-center</module>
         <module>gateway-center</module>
+        <module>oauth-center</module>
         <module>user-center</module>
         <module>monitor-center</module>
         <module>log-center</module>
         <module>data-center</module>
-        <module>api-model</module>
-        <module>common-model</module>
         <module>compute-center</module>
+        <module>api-model</module>
+        <module>commons</module>
     </modules>
 
 
