@@ -1,7 +1,7 @@
 package org.cloud.mae.oauth.controller;
 
 import lombok.extern.slf4j.Slf4j;
-import org.cloud.mae.model.log.LogAnnotation;
+import org.cloud.mae.api.log.LogAnnotation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;

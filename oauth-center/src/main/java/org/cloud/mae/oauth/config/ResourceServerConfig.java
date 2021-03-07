@@ -1,6 +1,6 @@
 package org.cloud.mae.oauth.config;
 
-import org.cloud.mae.model.commons.constants.PermitAllUrl;
+import org.cloud.mae.api.commons.constants.PermitAllUrl;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.oauth2.common.OAuth2AccessToken;

@@ -1,6 +1,6 @@
 package org.cloud.mae.oauth.feign;
 
-import org.cloud.mae.model.user.LoginAppUser;
+import org.cloud.mae.api.user.LoginAppUser;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
