@@ -1,0 +1,12 @@
+org/cloud/mae/model/gateway/feign/BackendClient.class
+org/cloud/mae/model/gateway/GatewayApplication.class
+org/cloud/mae/model/gateway/config/CrossDomainConfig.class
+org/cloud/mae/model/gateway/config/SecurityConfig.class
+org/cloud/mae/model/gateway/filter/InternalURIAccessFilter.class
+org/cloud/mae/model/gateway/config/ExceptionHandlerAdviceConfig.class
+org/cloud/mae/model/gateway/filter/BlackIPAccessFilter.class
+org/cloud/mae/model/gateway/feign/LogClient.class
+org/cloud/mae/model/gateway/config/SwaggerConfig.class
+org/cloud/mae/model/gateway/controller/ServiceInstanceController.class
+org/cloud/mae/model/gateway/controller/TokenController.class
+org/cloud/mae/model/gateway/feign/Oauth2Client.class

@@ -1,4 +1,4 @@
-package org.cloud.mae.model.log.autoconfigure;
+package com.cloud.mae.logreceiver;
 
 import org.cloud.mae.model.log.constants.LogQueue;
 import org.springframework.amqp.core.AmqpTemplate;
